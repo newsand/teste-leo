@@ -1,0 +1,24 @@
+# Binaries
+users-api
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Coverage
+coverage.out
+coverage.html
+
+# Database files
+*.db
+*.db-journal
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
